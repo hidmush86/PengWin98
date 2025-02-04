@@ -13,3 +13,6 @@ git clone https://github.com/hidmush86/PengWin98.git
 3. Select `PengWin98`
 
 That's it! Not all the sounds have been replaced, and sounds that have not will be the default `Ocean` sound pack. Feel free to fork or recommend additional sounds. Enjoy!
+
+You may also enjoy my [Bazzite Laptop Setup Guide]()
+[https://github.com/hidmush86/Bazzite-Laptop-Setup-Guide]
